@@ -10,6 +10,8 @@
 
 <p align="left">
   I am a passionate software developer with a flair for turning ideas into impactful digital solutions. With expertise in full-stack development and a knack for problem-solving, I thrive on crafting innovative, scalable, and user-centric applications. Whether it's building seamless user experiences or tackling complex technical challenges, I approach every project with creativity and determination. 
+</p>
+<p align="left">
   Beyond coding, I’m a lifelong learner, driven by curiosity and the desire to make a meaningful difference through technology
 </p>
 
