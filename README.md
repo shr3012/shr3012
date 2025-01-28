@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋, I'm Shreya!</h2>
+<h2 align="center"> ## नमस्ते (Namaste) # Hello there! 🙋🏻‍♀ I am Shreya Suman! img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h2>
 
 ###
 
@@ -86,6 +86,7 @@
 
 ###
 
+# Watch my contribution graph being eaten by a Snake! 🐍
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/shr3012/shr3012/output/snake.svg" alt="Snake animation" />
