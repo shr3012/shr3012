@@ -14,7 +14,8 @@
 <p align="left">
   Beyond coding, I’m a lifelong learner, driven by curiosity and a desire to make a meaningful difference, while admiring the beauty of nature through the eyes of math and physics.
 </p>
-<br/>
+<br />
+<br />
 
 ###
 
