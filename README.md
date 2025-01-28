@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center"> ## नमस्ते (Namaste) # Hello there! 🙋🏻‍♀ I am Shreya Suman! img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h2>
+## नमस्ते (Namaste) # Hello there! 🙋🏻‍♀ I am Shreya Suman! img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 ###
 
